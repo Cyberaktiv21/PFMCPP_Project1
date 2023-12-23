@@ -162,7 +162,7 @@ rickAstley.runAroundAndDesertYou();
 //  10)
 //  Noun: Cyberaktiv
 //  action 1: Cyberaktiv learns c++
-cyberaktiv.learnCpp();
+cyberaktiv.learnsCpp();
 
 //  action 2: Cyberaktiv reads documentation 
 cyberaktiv.readDocu();
